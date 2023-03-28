@@ -12,6 +12,7 @@ Go to admin dashboard and activate the plugin GEL-SEO-migration Script Beta
 
 ## Step 4
 Go to your website and add this parameter in the address bar of your browser after your website adress :
+
 ?GEL_compare_urls=https://www.domaintocompare.com
 
 Example:
